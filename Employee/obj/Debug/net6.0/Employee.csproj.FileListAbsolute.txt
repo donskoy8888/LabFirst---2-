@@ -1,0 +1,14 @@
+D:\codes\work\AnActualWork\LabFirst\Employee\bin\Debug\net6.0\Employee.exe
+D:\codes\work\AnActualWork\LabFirst\Employee\bin\Debug\net6.0\Employee.deps.json
+D:\codes\work\AnActualWork\LabFirst\Employee\bin\Debug\net6.0\Employee.runtimeconfig.json
+D:\codes\work\AnActualWork\LabFirst\Employee\bin\Debug\net6.0\Employee.dll
+D:\codes\work\AnActualWork\LabFirst\Employee\bin\Debug\net6.0\Employee.pdb
+D:\codes\work\AnActualWork\LabFirst\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\AnActualWork\LabFirst\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+D:\codes\work\AnActualWork\LabFirst\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+D:\codes\work\AnActualWork\LabFirst\Employee\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+D:\codes\work\AnActualWork\LabFirst\Employee\obj\Debug\net6.0\Employee.dll
+D:\codes\work\AnActualWork\LabFirst\Employee\obj\Debug\net6.0\refint\Employee.dll
+D:\codes\work\AnActualWork\LabFirst\Employee\obj\Debug\net6.0\Employee.pdb
+D:\codes\work\AnActualWork\LabFirst\Employee\obj\Debug\net6.0\Employee.genruntimeconfig.cache
+D:\codes\work\AnActualWork\LabFirst\Employee\obj\Debug\net6.0\ref\Employee.dll

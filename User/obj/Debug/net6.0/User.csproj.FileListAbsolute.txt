@@ -1,0 +1,14 @@
+D:\codes\work\AnActualWork\LabFirst\User\bin\Debug\net6.0\User.exe
+D:\codes\work\AnActualWork\LabFirst\User\bin\Debug\net6.0\User.deps.json
+D:\codes\work\AnActualWork\LabFirst\User\bin\Debug\net6.0\User.runtimeconfig.json
+D:\codes\work\AnActualWork\LabFirst\User\bin\Debug\net6.0\User.dll
+D:\codes\work\AnActualWork\LabFirst\User\bin\Debug\net6.0\User.pdb
+D:\codes\work\AnActualWork\LabFirst\User\obj\Debug\net6.0\User.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\AnActualWork\LabFirst\User\obj\Debug\net6.0\User.AssemblyInfoInputs.cache
+D:\codes\work\AnActualWork\LabFirst\User\obj\Debug\net6.0\User.AssemblyInfo.cs
+D:\codes\work\AnActualWork\LabFirst\User\obj\Debug\net6.0\User.csproj.CoreCompileInputs.cache
+D:\codes\work\AnActualWork\LabFirst\User\obj\Debug\net6.0\User.dll
+D:\codes\work\AnActualWork\LabFirst\User\obj\Debug\net6.0\refint\User.dll
+D:\codes\work\AnActualWork\LabFirst\User\obj\Debug\net6.0\User.pdb
+D:\codes\work\AnActualWork\LabFirst\User\obj\Debug\net6.0\User.genruntimeconfig.cache
+D:\codes\work\AnActualWork\LabFirst\User\obj\Debug\net6.0\ref\User.dll

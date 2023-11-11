@@ -1,0 +1,14 @@
+D:\codes\work\AnActualWork\LabFirst\Converter\bin\Debug\net6.0\Converter.exe
+D:\codes\work\AnActualWork\LabFirst\Converter\bin\Debug\net6.0\Converter.deps.json
+D:\codes\work\AnActualWork\LabFirst\Converter\bin\Debug\net6.0\Converter.runtimeconfig.json
+D:\codes\work\AnActualWork\LabFirst\Converter\bin\Debug\net6.0\Converter.dll
+D:\codes\work\AnActualWork\LabFirst\Converter\bin\Debug\net6.0\Converter.pdb
+D:\codes\work\AnActualWork\LabFirst\Converter\obj\Debug\net6.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\AnActualWork\LabFirst\Converter\obj\Debug\net6.0\Converter.AssemblyInfoInputs.cache
+D:\codes\work\AnActualWork\LabFirst\Converter\obj\Debug\net6.0\Converter.AssemblyInfo.cs
+D:\codes\work\AnActualWork\LabFirst\Converter\obj\Debug\net6.0\Converter.csproj.CoreCompileInputs.cache
+D:\codes\work\AnActualWork\LabFirst\Converter\obj\Debug\net6.0\Converter.dll
+D:\codes\work\AnActualWork\LabFirst\Converter\obj\Debug\net6.0\refint\Converter.dll
+D:\codes\work\AnActualWork\LabFirst\Converter\obj\Debug\net6.0\Converter.pdb
+D:\codes\work\AnActualWork\LabFirst\Converter\obj\Debug\net6.0\Converter.genruntimeconfig.cache
+D:\codes\work\AnActualWork\LabFirst\Converter\obj\Debug\net6.0\ref\Converter.dll

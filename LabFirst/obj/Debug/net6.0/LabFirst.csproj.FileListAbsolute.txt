@@ -1,0 +1,14 @@
+D:\codes\work\AnActualWork\LabFirst\LabFirst\bin\Debug\net6.0\LabFirst.exe
+D:\codes\work\AnActualWork\LabFirst\LabFirst\bin\Debug\net6.0\LabFirst.deps.json
+D:\codes\work\AnActualWork\LabFirst\LabFirst\bin\Debug\net6.0\LabFirst.runtimeconfig.json
+D:\codes\work\AnActualWork\LabFirst\LabFirst\bin\Debug\net6.0\LabFirst.dll
+D:\codes\work\AnActualWork\LabFirst\LabFirst\bin\Debug\net6.0\LabFirst.pdb
+D:\codes\work\AnActualWork\LabFirst\LabFirst\obj\Debug\net6.0\LabFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\AnActualWork\LabFirst\LabFirst\obj\Debug\net6.0\LabFirst.AssemblyInfoInputs.cache
+D:\codes\work\AnActualWork\LabFirst\LabFirst\obj\Debug\net6.0\LabFirst.AssemblyInfo.cs
+D:\codes\work\AnActualWork\LabFirst\LabFirst\obj\Debug\net6.0\LabFirst.csproj.CoreCompileInputs.cache
+D:\codes\work\AnActualWork\LabFirst\LabFirst\obj\Debug\net6.0\LabFirst.dll
+D:\codes\work\AnActualWork\LabFirst\LabFirst\obj\Debug\net6.0\refint\LabFirst.dll
+D:\codes\work\AnActualWork\LabFirst\LabFirst\obj\Debug\net6.0\LabFirst.pdb
+D:\codes\work\AnActualWork\LabFirst\LabFirst\obj\Debug\net6.0\LabFirst.genruntimeconfig.cache
+D:\codes\work\AnActualWork\LabFirst\LabFirst\obj\Debug\net6.0\ref\LabFirst.dll
